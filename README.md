@@ -3,9 +3,9 @@ butterfly
 
 use a simple multi-start procedure to overcome bad initialization for image registration
 
-![b1](https://raw.github.com/stnava/cars/master/butterfly-3.jpg?raw=true)
-![b2](https://raw.github.com/stnava/cars/master/butterfly-15.jpg?raw=true)
-![b3](https://raw.github.com/stnava/cars/master/ms_result.jpg?raw=true)
+![b1](https://raw.github.com/stnava/butterfly/master/butterfly-3.jpg?raw=true)
+![b2](https://raw.github.com/stnava/butterfly/master/butterfly-15.jpg?raw=true)
+![b3](https://raw.github.com/stnava/butterfly/master/ms_result.jpg?raw=true)
 
 run [multistart.sh](https://github.com/stnava/buttefly/blob/master/multistart.sh) in this directory.
 
