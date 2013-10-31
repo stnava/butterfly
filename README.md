@@ -7,7 +7,7 @@ use a simple multi-start procedure to overcome bad initialization for image regi
 ![b2](https://raw.github.com/stnava/butterfly/master/butterfly-15.jpg?raw=true)
 ![b3](https://raw.github.com/stnava/butterfly/master/ms_result.jpg?raw=true)
 
-run [multistart.sh](https://github.com/stnava/buttefly/blob/master/multistart.sh) in this directory.
+run [multistart.sh](https://github.com/stnava/butterfly/blob/master/multistart.sh) in this directory.
 
 ```
 antsAffineInitializer 2 butterfly-3.jpg butterfly-15.jpg  butter.mat  30 0.5
